@@ -1,7 +1,14 @@
 - 👋 Hi, I’m Paolo, I go by IlMistico on most of the tiny part of the Internet where I'm present.
-- 👀 I’m interested in software. I mean, I'm on GitHub, that's obvious right? More specifically, Python is my horse right now. It seems like everything there is to do in programming can be done in Python, and most of it can be even done properly! So for now I'm here.
-- 🌱 I’m currently learning how to properly build an online platform. With Python, most of the heavy lifting is done behind the scenes, which is great when you want to quickly get something done, but also means you don't really learn what happens behind an API or a database. Hope I'll know things better when I'll commit a new readme.
-- 📫 How to reach me ... well, don't. I Guess you could send me a message here on GitHub, but chances are I won't answer. I have space for a limited amount of people in my life, and I'm almost at capacity. 
+- 👀 I’m interested in software. I mean, I'm on GitHub, that's obvious right? More specifically, Python is my horse right now, but man, I discovered Rust and can;t get to learn it fast enough. Life always gets in the way of passions and interestes,, however, I aim to become proficient in it by the year. 
+- 🌱 I’m currently learning ... well, so much. I work in finance now, which is a brand new world for me both as data scientist and programmer. Ticks, futures, spoofing, order books... so much lingo!
+ I am also learning Rust, because it's awesome :-) and also because I am good with Python (high level, interpreted, easy, slow, jack-of-all-trades, memory safe-ish), so being good with Rust (low level, compiled, hard, fast, memory safe-est) would give me a much needed sense of balance.
+ Now, this is what I am actively studying: let's not go into what I would like to learn or this will become a looong list.
+- 📫 How to reach me ... well, thanks to GitHub's lack of a messaging service, let's just use my [email](mailto:paolo.merola89@gmail.com).
+
+
+I plan to enrich my page with some side project, but most of what I work on is covered by some proprietary rule or whatever, so there's going to be just some side project. I am open to ideas for something to put here tho!
+
+That is all. Dismissed.
 
 <!---
 IlMistico/IlMistico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
